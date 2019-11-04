@@ -1,9 +1,4 @@
-package lab2;
 
-/**
- *
- * @author fa16-bse-081
- */
 public class LabWork{
 
     public static void main(String[] args) {
