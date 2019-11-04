@@ -1,14 +1,4 @@
 
-package lab2;
-import java.util.*;
-/**
- *
- * @author fa16-bse-081
- * create a bank account class each bank account object represents information about the user 
- * like name and balance each class has method to deposit and withdraw money balance should reflect 
- * these operations the method also make sure the balance is never zero also calculate the number of 
- * transaction carried out on the bank account.
- */
 public class BankAccount{
    String  name;
    int balance;
